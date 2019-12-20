@@ -5017,28 +5017,28 @@
         },
         {
             "name": "symfony/var-exporter",
-            "version": "v4.3.3",
+            "version": "v4.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-exporter.git",
-                "reference": "9dee83031dcf6dcb53bb7ec1c51de085329bf5cb"
+                "reference": "e566070effe60b8d16b99e958cdbd92aa2e470cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/var-exporter/zipball/9dee83031dcf6dcb53bb7ec1c51de085329bf5cb",
-                "reference": "9dee83031dcf6dcb53bb7ec1c51de085329bf5cb",
+                "url": "https://api.github.com/repos/symfony/var-exporter/zipball/e566070effe60b8d16b99e958cdbd92aa2e470cb",
+                "reference": "e566070effe60b8d16b99e958cdbd92aa2e470cb",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.1.3"
             },
             "require-dev": {
-                "symfony/var-dumper": "^4.1.1"
+                "symfony/var-dumper": "^4.1.1|^5.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "4.3-dev"
+                    "dev-master": "4.4-dev"
                 }
             },
             "autoload": {
@@ -5073,7 +5073,7 @@
                 "instantiate",
                 "serialize"
             ],
-            "time": "2019-06-22T08:39:44+00:00"
+            "time": "2019-12-01T08:39:58+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -5140,12 +5140,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Symplify/CodingStandard.git",
-                "reference": "0b54e62481f3edc843e1cd5b6d36a6f3b3742c5e"
+                "reference": "d16273e5e71960f49e448300fbe44d6f5292aeee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Symplify/CodingStandard/zipball/0b54e62481f3edc843e1cd5b6d36a6f3b3742c5e",
-                "reference": "0b54e62481f3edc843e1cd5b6d36a6f3b3742c5e",
+                "url": "https://api.github.com/repos/Symplify/CodingStandard/zipball/d16273e5e71960f49e448300fbe44d6f5292aeee",
+                "reference": "d16273e5e71960f49e448300fbe44d6f5292aeee",
                 "shasum": ""
             },
             "require": {
@@ -5188,12 +5188,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Symplify/EasyCodingStandard.git",
-                "reference": "d4d9c0f4a7bda18b97c98588fbdc9c4715b07981"
+                "reference": "5893608bde2bf5bd5f48d977481582e3d2f90daa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Symplify/EasyCodingStandard/zipball/d4d9c0f4a7bda18b97c98588fbdc9c4715b07981",
-                "reference": "d4d9c0f4a7bda18b97c98588fbdc9c4715b07981",
+                "url": "https://api.github.com/repos/Symplify/EasyCodingStandard/zipball/5893608bde2bf5bd5f48d977481582e3d2f90daa",
+                "reference": "5893608bde2bf5bd5f48d977481582e3d2f90daa",
                 "shasum": ""
             },
             "require": {
@@ -5252,12 +5252,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Symplify/PackageBuilder.git",
-                "reference": "bd961b17c8e5467940c47836666d921bce17d1dd"
+                "reference": "f531e03f87c89b26605f1cc1022160e398108ba1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Symplify/PackageBuilder/zipball/bd961b17c8e5467940c47836666d921bce17d1dd",
-                "reference": "bd961b17c8e5467940c47836666d921bce17d1dd",
+                "url": "https://api.github.com/repos/Symplify/PackageBuilder/zipball/f531e03f87c89b26605f1cc1022160e398108ba1",
+                "reference": "f531e03f87c89b26605f1cc1022160e398108ba1",
                 "shasum": ""
             },
             "require": {
